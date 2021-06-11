@@ -1,1 +1,1 @@
-# Embed ehcache 
+# Embedded ehcache 
