@@ -3,11 +3,10 @@
          updateCheck="true"
          monitoring="autodetect"
          dynamicConfig="true">
-
     <diskStore path="java.io.tmpdir" />
 
     <cache name="usersCache"
-           maxEntriesLocalHeap="10000"
+           maxEntriesLocalHeap="20000"
            maxEntriesLocalDisk="1000"
            eternal="false"
            diskSpoolBufferSizeMB="20"
